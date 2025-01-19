@@ -1,2 +1,2 @@
 # file-utilities
-Compilation of utility functions and scripts for manipulating files and folders and parsing data from files.
+Compilation of personal utility functions, codes, and scripts for manipulating files and folders and parsing data from files.
