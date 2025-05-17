@@ -17,5 +17,8 @@ exit
 
 # =============================================================================
 # This combines two or more pdf files (here as given in the variables pdf1 and
-#  pdf2) into one pdf file named as given in output_pdf. 
+#  pdf2) into one pdf file named as given in output_pdf. This code uses
+#  pdfunit which is based on Poppler. Make sure to install it first on your
+#  device by:
+#   sudo apt install poppler-utils
 # =============================================================================
